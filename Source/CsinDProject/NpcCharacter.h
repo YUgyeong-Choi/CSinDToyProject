@@ -4,16 +4,16 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
-#include "NpcCharacter.generated.h"
+#include "NPCCharacter.generated.h"
 
 UCLASS()
-class CSINDPROJECT_API ANpcCharacter : public ACharacter
+class CSINDPROJECT_API ANPCCharacter : public ACharacter
 {
 	GENERATED_BODY()
 
 public:
 	// Sets default values for this character's properties
-	ANpcCharacter();
+	ANPCCharacter();
 
 protected:
 	// Called when the game starts or when spawned
