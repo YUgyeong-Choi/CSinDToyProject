@@ -72,7 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-#파라곤 에셋 무시
-Content/ParagonSerath/*
-Content/ParagonTwinblast/*
